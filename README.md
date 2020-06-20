@@ -18,10 +18,11 @@ This repo contains layout-specific files and a build log for an Atmel-based hand
 * [Station 60 Soldering Station](https://www.circuitspecialists.com/60_Watt_Soldering_Station.html)
 * [Kester 44 63/37 Solder](https://www.amazon.com/gp/product/B0149K4JTY/)
 * [Overture Black](https://www.amazon.com/dp/B07PGY2JP1/) + [Overture Orange](https://www.amazon.com/OVERTURE-Filament-Consumables-Dimensional-Accuracy/dp/B07VJYL11F/) PLA Filament
-* Hot Glue / [Superglue](https://www.amazon.com/Gorilla-Super-Glue-Gram-Clear/dp/B00OAAUAX8)
+* Multimeter
 * [Klein Tools Wire Stripper/Cutter](https://www.amazon.com/dp/B00080DPNQ/)
 * Flush Cutter
 * Screwdriver
+* Hot Glue / [Superglue](https://www.amazon.com/Gorilla-Super-Glue-Gram-Clear/dp/B00OAAUAX8)
 * Heat Gun / Lighter
 
 ## Assembly
