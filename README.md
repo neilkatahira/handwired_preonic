@@ -14,7 +14,7 @@ This repo contains layout-specific files and a build log for an Atmel-based hand
 * 1x Keycap set
 
 ### Additional Tools Used
-* [Ender 3 Pro - 3D printing](https://www.creality3dofficial.com/products/creality-ender-3-pro-3d-printer)
+* [Ender 3 Pro](https://www.creality3dofficial.com/products/creality-ender-3-pro-3d-printer)
 * [Station 60 Soldering Station](https://www.circuitspecialists.com/60_Watt_Soldering_Station.html)
 * [Kester 44 63/37 Solder](https://www.amazon.com/gp/product/B0149K4JTY/)
 * [Overture Black](https://www.amazon.com/dp/B07PGY2JP1/) + [Overture Orange](https://www.amazon.com/OVERTURE-Filament-Consumables-Dimensional-Accuracy/dp/B07VJYL11F/) PLA Filament
@@ -22,6 +22,7 @@ This repo contains layout-specific files and a build log for an Atmel-based hand
 * [Klein Tools Wire Stripper/Cutter](https://www.amazon.com/dp/B00080DPNQ/)
 * Flush Cutter
 * Screwdriver
+* Heat Gun / Lighter
 
 ## Assembly
 1. 3D print or source out case and switch plate. If 3D printing, making the plate thicker to reduce flexing is recommended.
