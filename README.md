@@ -10,9 +10,18 @@ This repo contains layout-specific files and a build log for an Atmel-based hand
 * Wires (used 22AWG solid core)
 * 5x M2 6mm screws
 * 5x M2 Female Brass Standoffs 12mm
-* Micro USB Cable
-* Hot Glue / Superglue
-* Keycap set
+* 1x Micro USB Cable
+* 1x Keycap set
+
+### Additional Tools Used
+* [Ender 3 Pro - 3D printing](https://www.creality3dofficial.com/products/creality-ender-3-pro-3d-printer)
+* [Station 60 Soldering Station](https://www.circuitspecialists.com/60_Watt_Soldering_Station.html)
+* [Kester 44 63/37 Solder](https://www.amazon.com/gp/product/B0149K4JTY/)
+* [Overture Black](https://www.amazon.com/dp/B07PGY2JP1/) + [Overture Orange](https://www.amazon.com/OVERTURE-Filament-Consumables-Dimensional-Accuracy/dp/B07VJYL11F/) PLA Filament
+* Hot Glue / [Superglue](https://www.amazon.com/Gorilla-Super-Glue-Gram-Clear/dp/B00OAAUAX8)
+* [Klein Tools Wire Stripper/Cutter](https://www.amazon.com/dp/B00080DPNQ/)
+* Flush Cutter
+* Screwdriver
 
 ## Assembly
 1. 3D print or source out case and switch plate. If 3D printing, making the plate thicker to reduce flexing is recommended.
@@ -27,7 +36,7 @@ This repo contains layout-specific files and a build log for an Atmel-based hand
 
 ![Columns](/images/cols.jpg)  
 
-4. Pick 17 I/O pins on Pro Micro for each row and column. Pro Micro pinout information can be found in references. Measure leads to respectable lengths, then cut and solder onto microcontroller board.
+4. Pick 17 I/O pins on Pro Micro for each row and column. Pro Micro pinout information can be found on [Deskthority](https://deskthority.net/wiki/Arduino_Pro_Micro). Measure leads to respectable lengths, then cut and solder onto microcontroller board.
 
 ![Pro Micro](/images/promicro.jpg)  
 
