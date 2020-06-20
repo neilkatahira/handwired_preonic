@@ -1,6 +1,6 @@
 # Handwired 5x12 Ortholinear Keyboard
 
-This repo contains layout-specific files and a build log for an Atmel-based handwired ortholinear keyboard similar to the [Preonic](https://drop.com/buy/preonic-mechanical-keyboard). Keyboard firmware used is the open-source [QMK](https://qmk.fm/), maintained by Jack Humbert of [OLKB](https://olkb.com/) along with the MK community.  
+This repo contains layout-specific files and a build log for an Atmel-based handwired 50% ortholinear keyboard similar to the [Preonic](https://drop.com/buy/preonic-mechanical-keyboard). Keyboard firmware used is the open-source [QMK](https://qmk.fm/), maintained by Jack Humbert of [OLKB](https://olkb.com/) along with the MK community.  
 
 ## BOM
 * 1x [Pro Micro 5V 16MHz](https://www.amazon.com/KeeYees-ATmega32U4-Development-Microcontroller-Bootloader/dp/B07FXCTVQP)
@@ -8,12 +8,12 @@ This repo contains layout-specific files and a build log for an Atmel-based hand
 * 60x Switches (used [Outemu Ice V2](https://mehkee.com/collections/switches-and-parts/products/outemu-v2-ice-switches?variant=31136134234177))
 * 60x [1N4148 Diodes](https://www.mouser.com/ProductDetail/ON-Semiconductor-Fairchild/1N4148?qs=i4Fj9T%2FoRm8RMUhj5DeFQg%3D%3D)
 * Wires (used 22AWG solid core)
-* 5x M2 6mm screws
+* 10x M2 6mm screws
 * 5x M2 Female Brass Standoffs 12mm
 * 1x Micro USB Cable
 * 1x Keycap set
 
-### Additional Tools Used
+### Additional Tools
 * [Ender 3 Pro](https://www.creality3dofficial.com/products/creality-ender-3-pro-3d-printer)
 * [Station 60 Soldering Station](https://www.circuitspecialists.com/60_Watt_Soldering_Station.html)
 * [Kester 44 63/37 Solder](https://www.amazon.com/gp/product/B0149K4JTY/)
