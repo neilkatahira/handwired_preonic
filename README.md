@@ -1,6 +1,6 @@
 # Handwired 5x12 Ortholinear Keyboard
 
-This repo contains layout-specific files and a build log for an Atmel-based handwired 50% ortholinear keyboard similar to the [Preonic](https://drop.com/buy/preonic-mechanical-keyboard). Keyboard firmware used is the open-source [QMK](https://qmk.fm/), maintained by Jack Humbert of [OLKB](https://olkb.com/) along with the MK community.  
+This repo contains layout-specific files and a build log for an Atmel-AVR based handwired 50% ortholinear keyboard similar to the [Preonic](https://drop.com/buy/preonic-mechanical-keyboard). Keyboard firmware used is the open-source [QMK](https://qmk.fm/), maintained by Jack Humbert of [OLKB](https://olkb.com/) along with the MK community.  
 
 ## BOM
 * 1x [Pro Micro 5V 16MHz](https://www.amazon.com/KeeYees-ATmega32U4-Development-Microcontroller-Bootloader/dp/B07FXCTVQP)
