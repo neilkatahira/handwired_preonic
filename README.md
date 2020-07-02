@@ -70,4 +70,4 @@ This repo contains layout-specific files and a build log for an Atmel-AVR based 
 * [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/)  
 * [In-depth Handwiring Guide](https://imgur.com/a/qcgdF)  
 * [How to Handwire a Planck](https://blog.roastpotatoes.co/guide/2015/11/04/how-to-handwire-a-planck/)  
-* [Keyboard Matrix Info](https://beta.docs.qmk.fm/developing-qmk/for-a-deeper-understanding/how_a_matrix_works)  
+* [How a Keyboard Matrix Works](https://beta.docs.qmk.fm/developing-qmk/for-a-deeper-understanding/how_a_matrix_works)  
