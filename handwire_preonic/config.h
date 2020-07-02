@@ -5,10 +5,10 @@
 
 /* USB Device descriptor parameter */
 #define VENDOR_ID       0xFEED
-#define PRODUCT_ID      0x6060
+#define PRODUCT_ID      0x6061
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    Neil
-#define PRODUCT         Preonic
+#define PRODUCT         Handwired Preonic
 #define DESCRIPTION     QMK based handwired ortholinear keyboard
 
 /* key matrix size */
