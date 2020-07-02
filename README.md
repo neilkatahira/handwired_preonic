@@ -71,3 +71,4 @@ This repo contains layout-specific files and a build log for an Atmel-AVR based 
 * [In-depth Handwiring Guide](https://imgur.com/a/qcgdF)  
 * [How to Handwire a Planck](https://blog.roastpotatoes.co/guide/2015/11/04/how-to-handwire-a-planck/)  
 * [How a Keyboard Matrix Works](https://beta.docs.qmk.fm/developing-qmk/for-a-deeper-understanding/how_a_matrix_works)  
+* [Keyboard Matrix Scanning](https://www.dribin.org/dave/keyboard/one_html/)
